@@ -25,14 +25,15 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 ## Output:
 ### SOBEL EDGE DETECTOR
 
-![output](./sobel.png)
+<img width="1180" height="683" alt="image" src="https://github.com/user-attachments/assets/d80f2caa-4de1-4546-a90c-f80e166b9507" />
+
 
 ### LAPLACIAN EDGE DETECTOR
-![output](./laplacian.png)
+<img width="532" height="333" alt="image" src="https://github.com/user-attachments/assets/eb2aeb24-8eab-42b4-99c6-3e4205a6bc5a" />
 
 
 ### CANNY EDGE DETECTOR
-![output](./canny.png)
+<img width="950" height="970" alt="image" src="https://github.com/user-attachments/assets/d09ffcc7-a868-419f-9de7-da35dade414b" />
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
